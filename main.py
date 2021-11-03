@@ -10,7 +10,7 @@ import keyboard
 import random
 import os
 import subprocess
-token = "b6f2ec1fe49fb24b5c2e7c9de8f2257c058957da0db184948d00e729e48ef43692b9d30040e940fc417da"
+token = "b6f2ec1fe49fb24b5c2e7c9de8f2257c058957dfg0fgb184948d00e729e48ef43692b9d30040e940fc417da"
 vk = vk_api.VkApi(token=token)
 vk._auth_token()
 Vk = vk.get_api()
